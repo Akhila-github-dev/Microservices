@@ -11,3 +11,11 @@ order of excution for OpenFeign
 3. department
 4. employeeUsingOpenFeign
 5. cloud gateway
+
+circuitBreaker
+service1
+service2
+http://localhost:9292/actuator/circuitbreakers
+http://localhost:9191/
+http://localhost:9292/
+http://localhost:9292/actuator
